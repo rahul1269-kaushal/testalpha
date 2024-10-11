@@ -1,3 +1,7 @@
+## 0.0.82
+
+* Bump unstructured to 0.15.14
+
 ## 0.0.81
 
 * Update `strategy` parameter to allow `'` and `"` as input surrounding the value.
